@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(170, 168, 165);
+}
+
+li, p{
+    background-color: rgb(207, 195, 178);
+}
+
+
+h1, h3 {
+    color:aliceblue;
+    font-family: cursive;
+}
+
