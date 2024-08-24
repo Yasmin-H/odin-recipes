@@ -75,7 +75,7 @@ a{
     color: black;
 }
 
-h1{
+.HomeTitle{
   margin-top: 10%;
   box-sizing: border-box;
   font-size: 70px;
