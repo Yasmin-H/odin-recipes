@@ -4,7 +4,7 @@ body{
     padding-bottom: 25px;
     padding-left: 10px;
     padding-right: 10px;
-    background-image: 
+
 
 }
 
@@ -33,7 +33,8 @@ img {
 
 p ,  .StepsBox {
     border: 2px solid black;
-    margin: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
     box-sizing: border-box;
     background-color: rgb(207, 195, 178);
 }
@@ -48,4 +49,9 @@ p ,  .StepsBox {
 
 li , p {
     padding: 10px;
+}
+
+span {
+    background-color: white;
+    border: 2px solid black;
 }
