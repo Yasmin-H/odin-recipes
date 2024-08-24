@@ -5,7 +5,7 @@
 
 <p> This is going to be a basic recipe website which will consist of a main index page that will have links to a few recipes </p>
 
-    ![HomePage, RecipeWebsite](/images/Screenshot%201.png)
+![HomePage, RecipeWebsite](/images/Screenshot%201.png)
 
 <p> My first task in the Odin Project was to create a basic recipe website which will consist of a main index page that will aslo have links to a few recipes 
 
